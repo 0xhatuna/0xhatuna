@@ -17,9 +17,9 @@
 
 
 - See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
-- 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
-- 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io)!
-- 📫 How to reach me: `swyx at hey dot com`
+- 👯 I am on the [Career Chats](https://www.facebook.com/GBY.ty33/)
+- 💬 Ask me about [hatuna](https://www.facebook.com/GBY.ty33/) and [React](https://www.youtube.com/watch?v=TUVcZfQe-Kw)
+- 📫 How to reach me: `[hatuna](https://twitter.com/intent/follow?screen_name=h4ktun4&tw_p=followbutton)`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf) on suspicion of being a spy
 
