@@ -3,8 +3,8 @@
 [![up1](https://user-images.githubusercontent.com/68894302/124266585-5f2c9500-db61-11eb-93d8-acbd66875248.jpg)](https://github.com/14601?tab=repositories)
 
 <p align="left">
-  <img src="https://arturio.dev/" alt="Profile views"> •  
-  <a href="https://update.com/">Blog</a> •
+  <img src="https://github.com/14601" alt="Profile views"> •  
+  <a href="https://updating.com/">Blog</a> •
   <a href="https://twitter.com/intent/follow?screen_name=h4ktun4&tw_p=followbutton">Twitter</a> •
   <a href="https://github.com/14601/14601#readme">Work README</a> •
 </p>
