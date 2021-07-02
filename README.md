@@ -24,3 +24,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: If I could have any superpower, it would be fly like a bird haha
 
+### Skills & Endorsements
+
