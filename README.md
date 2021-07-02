@@ -21,5 +21,5 @@
 - 💬 Ask me about [hatuna](https://www.facebook.com/GBY.ty33/) and [React](https://www.youtube.com/watch?v=TUVcZfQe-Kw)
 - 📫 How to reach me: `[hatuna dot com]`
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: If I could have any superpower, it would be Fly like a bird
+- ⚡ Fun fact: If I could have any superpower, it would be fly like a bird haha
 
