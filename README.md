@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...bug bounty
 - 🤔 I’m looking for help with ...AWS
 -->
-- 💬 Ask me about anything
+- 💬 Ask me about [php](https://twitter.com/h4ktun4)
 - 📫 How to reach me: [twitter](https://twitter.com/h4ktun4)
 - 😄 Pronouns: he/him
 
