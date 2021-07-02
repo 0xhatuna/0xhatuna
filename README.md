@@ -17,7 +17,7 @@
 
 
 
-
+- See my [full about page here](http:update.com) as well as [featured writing](https:updating.com).
 - 👯 I am on the [Career Chats](https://www.facebook.com/GBY.ty33/)
 - 💬 Ask me about [hatuna](https://www.facebook.com/GBY.ty33/) and [React](https://www.youtube.com/watch?v=TUVcZfQe-Kw)
 - 📫 How to reach me: `[hatuna dot com]`
