@@ -19,7 +19,7 @@
 - See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
 - 👯 I am on the [Career Chats](https://www.facebook.com/GBY.ty33/)
 - 💬 Ask me about [hatuna](https://www.facebook.com/GBY.ty33/) and [React](https://www.youtube.com/watch?v=TUVcZfQe-Kw)
-- 📫 How to reach me: `[hatuna](https://twitter.com/intent/follow?screen_name=h4ktun4&tw_p=followbutton)`
+- 📫 How to reach me: `[hatuna dot com]`
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf) on suspicion of being a spy
+- ⚡ Fun fact: If I could have any superpower, it would be Fly like a bird
 
