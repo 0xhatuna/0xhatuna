@@ -18,11 +18,15 @@
 
 
 - See my [full about page here](http:update.com) as well as [featured writing](https:updating.com).
-- 👯 I am on the [Career Chats](https://www.facebook.com/GBY.ty33/)
-- 💬 Ask me about [hatuna](https://www.facebook.com/GBY.ty33/) and [React](https://www.youtube.com/watch?v=TUVcZfQe-Kw)
-- 📫 How to reach me: `[hatuna dot com]`
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: If I could have any superpower, it would be fly like a bird haha
+- 👯 I'm currently workingg on my project [Updating](updating)
+- 📫 I'm curently learning Javascript & Typescript
+- 😄 I'm looking to collaborate on [Github Readme Stats]()
+- 💬 Ask me about anything [here](https://twitter.com/h4ktun4) 
+- ⚡ Fun fact: If I could have any superpower, it would be fly like a bird 
 
-### Skills & Endorsements
+If you're interested in the work I do, consider supporting me on Github!
+
+| Top Track                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9?si=e764bccd13f04281"><img src="https://user-images.githubusercontent.com/68894302/124342973-49b37b80-dbf2-11eb-9671-b9312f8f7abb.jpg" width="540" height="150"></a> |
 
