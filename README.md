@@ -24,7 +24,7 @@
 - 💬 Ask me about anything [here](https://twitter.com/h4ktun4) 
 - ⚡ Fun fact: If I could have any superpower, it would be fly like a bird 
 
-If you're interested in the work I do, consider supporting me on Github!
+
 
 | Top Track                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------|
