@@ -26,7 +26,5 @@
 
 
 
-| Top Track                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9?si=e764bccd13f04281"><img src="https://user-images.githubusercontent.com/68894302/124342973-49b37b80-dbf2-11eb-9671-b9312f8f7abb.jpg" width="540" height="150"></a> |
+
 
