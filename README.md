@@ -25,7 +25,7 @@
 - ⚡ Fun fact: If I could have any superpower, it would be fly like a bird 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xhatuna&show_icons=true&theme=radical" alt="0xhatuna" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xhatuna&show_icons=true&theme=cobalt" alt="0xhatuna" /> </p>
 
 
 
