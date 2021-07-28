@@ -15,16 +15,6 @@
   <img align="right" src="https://user-images.githubusercontent.com/68894302/124269073-99e3fc80-db64-11eb-9d24-db8f21f89ac5.png" width=200 />
 </a> 
 
-
-
-- See my [full about page here](http:update.com) as well as [featured writing](https:updating.com).
-- 👯 I'm currently workingg on my project [Updating](updating)
-- 📫 I'm curently learning Javascript & Typescript
-- 😄 I'm looking to collaborate on [Github Readme Stats]()
-- 💬 Ask me about anything [here](https://twitter.com/h4ktun4) 
-- ⚡ Fun fact: If I could have any superpower, it would be fly like a bird 
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xhatuna&show_icons=true&theme=cobalt" alt="0xhatuna" /> </p>
 
 
