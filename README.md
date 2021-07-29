@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Dinh V. Tuan aka hatuna</h1>
 <h3 align="center">Research and study infosec.</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xhatuna&show_icons=true&theme=cobalt" alt="0xhatuna" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hatunaa&show_icons=true&theme=cobalt" alt="hatunaa" /> </p>
 
 
 
